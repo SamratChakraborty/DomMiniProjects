@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(8, 98, 155);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#card{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+#stories{
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+.story{
+    
+}
